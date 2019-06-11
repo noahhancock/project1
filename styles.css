@@ -1,4 +1,6 @@
-h1{
-    color:red;
-    text-decoration: underline;
+.contact-hours-wrapper {
+    color: royalblue;
+}
+#address-wrapper {
+    color: red;
 }
